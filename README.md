@@ -9,4 +9,4 @@ Access todos through [this](http://web.tecnico.ulisboa.pt/~ist186512/projects/to
 If you downloaded the repo, make sure that there is a browser installed on your computer and start the game by running the HTML file with it.
 
 ## Rules
-Insert and delete your notes.
+Add and delete your notes.
