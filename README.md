@@ -5,7 +5,7 @@ It was a project from [this](https://www.udemy.com/the-web-developer-bootcamp/) 
 
 ## Start
 
-Access todos through [this](http://web.tecnico.ulisboa.pt/~ist186512/projects/todos/) link or download the repo.
+Access todos through [this](http://web.tecnico.ulisboa.pt/~ist186512/projects/todo/) link or download the repo.
 If you downloaded the repo, make sure that there is a browser installed on your computer and start the game by running the HTML file with it.
 
 ## Rules
